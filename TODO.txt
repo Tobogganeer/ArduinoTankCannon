@@ -1,0 +1,28 @@
+- ELECTRONICS:
+Connect door motor
+Connect fire actuator
+Connect door motor
+Bottle detector
+Fire button
+Door lever
+Movement levers
+Rotation crank
+Relay
+Power supply wires
+
+- HARDWARE:
+Door gears
+Door (print)
+Print movement levers
+Mount door motor
+Mount door (tracks?)
+Connect piping to everything else
+Mount firing motor
+Mount spring compressor motor
+Door actuator lever
+
+- SHOPPING:
+Joystick modules (for rotation)
+Piping for bottle
+Mounting hardware (bolts?)
+Door motor spade connectors
